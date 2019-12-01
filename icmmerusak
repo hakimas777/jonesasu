@@ -1,0 +1,219 @@
+mau RECODE YA ANAK BABI??
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+clear
+cowsay -f eyes "USER" |lolcat
+echo ""
+echo $green"MASUKAN USERNAME DENGAN BENAR KALO GK BENAR KITA BANGKU HANTAM"
+echo $red"KALAU TIDAK TAHU USERNAMENYA SIHLAKAN HUB NOMER TAMPAN"
+echo $yellow"Whatsapp : 088227941062"
+echo ""
+echo $cyan"##############<USERNAME>###################"
+read -p"Masukan Username: " us
+if [ $us = "TAMPAN" ];then
+sleep 1
+clear
+else
+clear
+cowsay -f eyes "Salah" | lolcat
+cowsay -f eyes "Failed" | lolcat
+sleep 1
+clear
+sh pw+us.sh
+fi
+
+cowsay -f eyes "PASSWORD" | lolcat
+echo ""
+echo $cyan"MASUKAN PASSWORD DGN BENAR ANJING"
+echo $purple"KALAU GK TAHU PASSWORDNYA HUB NOMER TAMPAN"
+echo $yellow"Whastapp : 088227941062"
+echo ""
+echo $green"#############PASSWORDNYA####################"
+read -p"Masukan Password: " subcrebe
+if [ $pw = "Rafli" ];then
+sleep 1
+clear
+else
+clear
+toilet -f big -F gay "Salah"
+toilet -f big -F gay "Failed"
+sleep 1
+clear
+sh pw+us.sh
+fi
+
+toilet -f big -F gay "T00LS"
+toilet -f big -F gay "MR.CL4Y"
+toilet -f big -F gay "CARI CEWE CANTIK?"
+echo
+###################################################
+# CTRL C-
+###################################################
+trap ctrl_c INT
+ctrl_c() {
+clear
+echo  $red"[#]> (Ctrl + C ) Detected,
+Trying To Exit ... "
+sleep 1
+echo ""
+echo  $yellow"[#]> Thank You For Using My
+Tools ... "
+sleep 1
+echo ""
+echo  $white"[#]> Rabbit Cyber Team Was
+Here ... "
+sleep 5
+read enter
+exit
+}
+=================================================
+echo $yellow
+figlet -f smshadow "TOOLS L U K M A N TAMPAN :V"
+echo $indigo
+date
+echo $purple"___________________________________________________"
+echo $cyan" ["$red"+"$cyan"]Author by   : MR.L U K M A N "
+echo $cyan" ["$red"+"$cyan"]Team        : ICM MERUSAK DUNIA KOMPUTER            "
+echo $cyan" ["$red"+"$cyan"]Github      : https://github janda anak lim : va.com"
+echo $cyan" ["$red"+"$cyan"]Whatsapp : 088227941062"
+echo $cyan" ["$red"+"$cyan"]Instagram : Lukman Nurul Hakim"
+echo $cyan" ["$red"+"$cyan"]Facebook : Gk punya : v"
+echo $purple"___________________________________________________"
+echo ""
+toilet -f big -F gay "SELAMAT DATANG  DI TOOLS OTANG TAAMPAN"
+sleep 1
+echo $green"TOOLS INI BUAT ORANG JOMBLO :V"
+sleep 2
+echo $purple"___________________________________________________"
+echo
+echo $cyan" 1) Nomer watsaap Cewek cantik"
+sleep 3
+echo $purple"___________________________________________________"
+echo
+echo $blue" 2) nomer watsaap tampan tampan :v"
+sleep 4
+cho $purple"___________________________________________________"
+echo  $white""
+2
+echo $purple"___________________________________________________"
+echo
+echo $cyan" 3)ANAK BABI"
+sleep 3
+echo $purple"___________________________________________________"
+echo
+echo $blue" 4)ANAK KONTOLLL"
+sleep 4
+echo $purple"___________________________________________________"
+echo  $white""
+read -p "[root@]> " bos;
+
+if [ $bos= 1 ] || [ $bos = 1 ]
+then
+clear
+figlet "WHATSAPP" | lolcat
+figlet "CEWE" | lolcat
+echo $yellow"NAMA = BLACK PING"
+echo $cyan"negara    = KOREA"
+echo $blue"whatsapp= 0852216562911"
+echo $purple"___________________________________________________"
+echo
+echo $blue"NAMA = Yossita Fabela"
+echo $green"negara = indonesia"
+echo $purple"whatsapp = 08 23 7740 9966"
+echo $purple"___________________________________________________"
+echo
+echo $yellow"NAMA = Yeyen Monica"
+echo $cyan"negara = indonesia"
+echo $green"whatsapp = 08 58 1395 4449."
+echo $purple"___________________________________________________"
+echo
+echo $ungu"NAMA = Viola"
+echo $purple" negara = indonesia"
+echo $cyan"whatsapp = 08 78 8702 8287"
+echo $purple"___________________________________________________"
+echo
+echo $green"NAMA = Stevani Finacia "
+echo $cyan"Negara = indonesia"
+echo $blue"whatsapp = 08 57 9277 2710."
+echo $purple"___________________________________________________"
+echo
+echo $blue"NAMA = Amelia Nuraeni"
+echo $white"negara = indonesia"
+echo $yellow"whatsapp =  +628 31 8643 6791"
+echo $purple"___________________________________________________"
+echo
+echo $white"NAMA = Sintia Mirah Septiani"
+echo $yellow"negara = indonesia"
+echo $purple"whatsapp = 0838 2008 5509."
+echo $purple"___________________________________________________"
+echo
+echo $green"NAMA = hasna azizah"
+echo $ungu"negara = indonesia"
+echo $yellow"whatsapp = 085813043584"
+echo $purple"___________________________________________________"
+echo $green" 1)lanjut gk tools nya tampan tampan nih :v"
+read -p"Your Answer: " gg;
+fi
+
+if [ $gg = 1 ] || [ $gg = 1 ]
+then
+clear
+sh cinta.sh
+fi
+
+if [ $bos = 2 ] || [ $bos = 2 ]
+then
+clear
+figlet "WHATSAPP" | lolcat
+figlet "COWO" | lolcat
+echo $blue"NAMA = Apridal Balaw"
+echo $cyan"negara = indonesia"
+echo $green"whatsapp = 083807359899"
+echo $purple"___________________________________________________"
+echo
+echo $cyan"NAMA = ARIF"
+echo $blue"negara = indonesia"
+echo $white"whatsapp = 087888834330"
+echo $purple"___________________________________________________"
+echo
+echo $green"NAMA = Rafell"
+echo $blue"negara = indonesia"
+echo $cyan"whatsapp = 081316826548"
+echo $purple"___________________________________________________"
+echo
+echo $green"NAMA = Indra Alfarezi"
+echo $red"negara = indonesia"
+echo $yellow"whatsapp = 081254159753"
+echo $purple"___________________________________________________"
+echo
+echo $red"NAMA = Agus Irmawan"
+echo $green" negara = indonesia"
+echo $cyan"whatsapp = 085838737713"
+echo $purple"___________________________________________________"
+echo
+echo $white"NAMA = Iksan"
+echo $blue"negara = indonesia"
+echo $yellow"whatsapp = 081290437229"
+$purple"___________________________________________________"
+echo
+echo $yellow"NAMA = YUNUS"
+echo $white"negara = indonesia"
+echo $green"whatsapp = 082141340626"
+echo $purple"___________________________________________________"
+echo
+echo $purple"NAMA = NOMER ADMIN PALING TAMPAN DI DUNIA INI :V"
+echo $white"negara = indonesia"
+echo $green"whatsapp = 088227941062"
+echo $purple"___________________________________________________"
+echo $green" 1)lanjut tools"                                                            read -p"Your Answer: " gg;
+fi
+
+if [ $gg = 1 ] || [ $gg = 1 ]                                                           then
+clear
+sh cinta.sh
+fi
